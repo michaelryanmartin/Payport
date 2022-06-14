@@ -1,38 +1,37 @@
 # Payport
 
-## Deskripsi Aplikasi
-Aplikasi ini mempunyai 2 pihak eksternal yaitu owner dan staff. Aplikasi ini memiliki 2 jenis tampilan yang dibedakan berdasarkan proses login usernya, yaitu tampilan untuk owner dan tampilan untuk pegawai. Tampilan pada owner meliputi melihat laporan penjualan harian dan laporan penjualan bulanan, sedangkan tampilan pada pegawai meliputi memasukkan jumlah stok, menginput pesanan, dan melakukan transaksi.
+## Application Description
+This application has 2 external parties, namely the owner and staff. This application has 2 types of views that are distinguished based on the user login process, namely the display for the owner and the display for employees. Views on the owner include viewing daily sales reports and monthly sales reports, while the display on the employee includes entering the amount of stock, inputting orders, and making transactions.
 
-Pada permulaan Owner dapat memasukkan sejumlah data awal seperti saldo, akun yang digunakan, harga, produk, dan program promosi ke dalam basis data. Kemudian Staff akan menggunakannya untuk memasukkan pesanan, dan jumlah stok per hari ke sistem dan sistem dapat memberi tahu staff mengenai sisa stock, total harga, dan besar kembalian yang perlu dibayarkan kepada customer. Pada akhir hari sistem dapat memberikan hasil kalkulasi dari setiap transaksi yang dilakukan oleh sistem berupa laporan penjualan kepada Owner.
+At the beginning the Owner can enter a number of initial data such as balances, accounts used, prices, products, and promotional programs into the database. Then the staff will use it to enter orders, and the amount of stock per day into the system and the system can inform staff about the remaining stock, total price, and the amount of change that needs to be paid to the customer. At the end of the day the system can provide the calculation results of every transaction made by the system in the form of a sales report to the Owner.
 
-## Cara Menjalankan Aplikasi
-Berikut merupakan instruksi untuk menjalankan aplikasi
+## How to run the Application
 
 ### A.
 1. Download [XAMPP](https://www.apachefriends.org/download.html)
-2. Run Apache dan MySql di XAMPP
-3. Buka phpMyAdmin
-4. Import database payport
-5. Download Artifacts MSDeploy (Di Payport Repository)
-6. Buka folder src/dist
-7. Jalankan main.exe
+2. Run Apache and MySql on XAMPP
+3. Open phpMyAdmin
+4. Import the payport database
+5. Download Artifacts MSDeploy (On Payport Repository)
+6. Open the src/dist folder
+7. Run main.exe
 
 ### B.
-1. Ikuti langkah 1-4 pada cara A
-2. Download Zip Repository PayPort
-3. Buka folder payport
+1. Follow steps 1-4 in method A
+2. Download the PayPort Zip Repository
+3. Open the payport folder
 4. Run terminal, start virtual environment
-5. Install requirement.txt
+5. Install requirements.txt
 ```bash
 pip install -r requirement.txt
 ```
-6. Jalankan main 
-```python
+6. Run main
+``` python
 python main.py
 ```
 
-## Daftar Modul yang Diimplementasikan
-Berikut merupakan daftar modul yang kami implementasikan beserta Informasi Penanggung Jawabnya dan tampilan layar modul tersebut dengan *screen capture* layar modul
+## Implemented Modul
+The following is a list of the modules that we have implemented along with the screen display of the module with *screen capture* of the module screen
 
 ### Login
 ![Login](./doc/Login.png)
@@ -61,8 +60,8 @@ Berikut merupakan daftar modul yang kami implementasikan beserta Informasi Penan
 ### Transaksi
 ![Transaksi](./doc/Transaksi.png)
 
-## Daftar Tabel Basis Data
-Berikut merupakan daftar tabel basis data yang diimplementasi dan dilengkapi dengan nama tabel beserta atribut dan deskripsinya
+## List of Table from the database
+The following is a list of database tables that are implemented and equipped with table names along with their attributes and descriptions
 
 ### Tabel Anggota
 
