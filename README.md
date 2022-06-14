@@ -50,7 +50,7 @@ NIM : 18219046
 Nama : Michael Ryan Martin
 
 #### Screen Capture
-![Laporan Harian](./doc/Laporan Harian.png)
+![Laporan Harian](./doc/Laporan-Harian.png)
 
 ### Laporan Bulanan
 #### Penanggung Jawab
@@ -59,7 +59,7 @@ NIM : 18219007
 Nama : Azka Redhia Dimastyo Mahardani
 
 #### Screen Capture
-![Laporan Bulanan](./doc/Laporan Bulanan.png)
+![Laporan Bulanan](./doc/Laporan-Bulanan.png)
 
 ### Edit Anggota
 #### Penanggung Jawab
@@ -68,7 +68,7 @@ NIM : 18219094
 Nama : Muhammad Ichsandro D Noor
 
 #### Screen Capture
-![Edit Anggota](./doc/Edit Anggota.png)
+![Edit Anggota](./doc/Edit-Anggota.png)
 
 ### Edit Produk
 #### Penanggung Jawab
@@ -77,7 +77,7 @@ NIM : 18219072
 Nama : Dirasiella Damasari Hamdani
 
 #### Screen Capture
-![Edit Produk](./doc/Edit Produk.png)
+![Edit Produk](./doc/Edit-Produk.png)
 
 ### Edit Promosi
 
@@ -87,7 +87,7 @@ NIM : 18219072
 Nama : Dirasiella Damasari Hamdani
 
 #### Screen Capture
-![Edit Promosi](./doc/Edit Promosi.png)
+![Edit Promosi](./doc/Edit-Promosi.png)
 
 ### Cek Stok
 #### Penanggung Jawab
@@ -96,7 +96,7 @@ NIM : 18219094
 Nama : Muhammad Ichsandro D Noor
 
 #### Screen Capture
-![Cek Stok](./doc/Cek Stok.png)
+![Cek Stok](./doc/Cek-Stok.png)
 
 ### Input Pesanan
 
@@ -106,7 +106,7 @@ NIM : 18219094
 Nama : Muhammad Ichsandro D Noor
 
 #### Screen Capture
-![Input Pesanan](./doc/Input Pesanan.png)
+![Input Pesanan](./doc/Input-Pesanan.png)
 
 ### Transaksi
 #### Penanggung Jawab
